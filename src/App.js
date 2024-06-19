@@ -4,7 +4,7 @@ import { Link, Route, Routes } from 'react-router-dom'
 import AddMovie from './components/addmovie';
 import Home from './components/Home';
 import Events from './components/Events';
-
+//Testing
 function App() {
 
     return (
