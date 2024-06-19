@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "id": "3220",
+      "name": "Pathaan",
+      "type": "Action",
+      "Desc": "Srk Movie"
+    },
+    {
+      "id": "2a26",
+      "name": "Pathaan",
+      "type": "Action",
+      "Desc": "Srk Movie"
+    }
+  ]
+}
